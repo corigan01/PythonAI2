@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data2</folder>
+	<filename>frame5056.jpg</filename>
+	<path>C:\Users\s55646\OneDrive - Park Hill School District\Documents\My Music\data2\frame5056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>250</ymin>
+			<xmax>225</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>978</xmin>
+			<ymin>228</ymin>
+			<xmax>1177</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

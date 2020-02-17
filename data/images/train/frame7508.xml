@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data2</folder>
+	<filename>frame7508.jpg</filename>
+	<path>D:\data2\frame7508.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>158</ymin>
+			<xmax>1049</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>
